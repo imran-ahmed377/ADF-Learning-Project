@@ -1,4 +1,4 @@
-# Azure Data Factory Learning Project
+# Azure Data Factory Automate Project
 
 A comprehensive end-to-end **ETL (Extract, Transform, Load)** pipeline built with **Azure Data Factory** for learning industry-relevant data engineering concepts.
 
